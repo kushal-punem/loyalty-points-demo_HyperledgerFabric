@@ -1,0 +1,31 @@
+# Node.js dependencies
+node_modules/
+chaincode-javascript/node_modules/
+
+# Sensitive credentials
+wallet/
+
+# Logs
+*.log
+
+# Temporary files from Fabric network
+*.tar.gz
+*.block
+*.pid
+*.db
+*.sqlite
+
+# Editor and OS files
+.DS_Store
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Environment files
+.env
+*.env.*
+
+# Test and build artifacts
+dist/
+build/
