@@ -114,6 +114,3 @@ Follow these steps to set up and run the demo:
   peer lifecycle chaincode querycommitted --channelID loyaltychannel
   ```
 - **Node.js Errors**: Ensure Node.js v16 (`nvm use 16`) and dependencies are installed (`npm install`).
-
-
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kushal-punem\&repo=loyalty-points-demo_HyperledgerFabric\&theme=tokyonight)](https://github.com/kushal-punem/loyalty-points-demo_HyperledgerFabric)
